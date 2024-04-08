@@ -1,0 +1,2 @@
+You can download these libraries using "pip install ..." in vscode
+
