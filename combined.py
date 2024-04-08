@@ -1,3 +1,4 @@
+#Combined code that detects facial landmarks as well as works as virtual mouse
 import cv2
 import dlib
 import mediapipe as mp
